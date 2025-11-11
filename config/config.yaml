@@ -156,6 +156,23 @@ platforms:
   - id: "chongbuluo"
     name: "虫部落"
 
+      # === 短剧/娱乐资讯类 ===
+  - id: "kuaishou"
+    name: "快手"           # 建议重新启用
+  - id: "sohu-ent"
+    name: "搜狐娱乐"
+  - id: "qq-ent"
+    name: "腾讯娱乐"
+  - id: "163-ent"
+    name: "网易娱乐"
+  - id: "ifeng-ent"
+    name: "凤凰娱乐"
+  - id: "douyin-hotdrama"
+    name: "抖音短剧热榜"
+  - id: "kuaishou-drama"
+    name: "快手短剧榜"
+
+
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
   # 备注：以下渠道在测试中抓取失败，已暂时注释
